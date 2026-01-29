@@ -2,6 +2,7 @@
 Fichier python pour tester Streamlit sur les sorties de MAELIA
 """
 
+import altair as alt
 import pandas as pd
 import streamlit as st
 import os
@@ -17,8 +18,10 @@ if __name__ == "__main__":
     # title_plot_01 = "sudouest_prairie_35_1"
     # title_plot_02 = "sudouest_prairie_42_1"
     # log_MAELIA_01 = "/Users/g.taburet/Gama_Workspace/MAELIA_1.4.27_GAMA_2025-06/models/main/log/terrainTest_2026-01-29_testMaisDP/"
-    log_MAELIA_01 = "/Users/g.taburet/Gama_Workspace/MAELIA_1.4.27_GAMA_2025-06/models/main/log/terrainTest_2026-01-29_testMaisDP_AvecIrri_Rendemdent14_v2/"
-    log_MAELIA_02 = "/Users/g.taburet/Gama_Workspace/MAELIA_1.4.27_GAMA_2025-06/models/main/log/terrainTest_2026-01-29_testMaisDP_alfalfa_AvecIrri_Rendemdent14/"
+    log_MAELIA_01 = "data/terrainTest_2026-01-29_testMaisDP_AvecIrri_Rendemdent14_v2/"
+    log_MAELIA_02 = (
+        "data/terrainTest_2026-01-29_testMaisDP_alfalfa_AvecIrri_Rendemdent14/"
+    )
     title_plot_01 = "maisDP"
     title_plot_02 = "alfalfa_maisDP"
 
@@ -216,8 +219,6 @@ if __name__ == "__main__":
                 header=None,
                 names=["annee", "indicateur_bio"],
             )
-
-            import altair as alt
 
             chart_01 = (
                 alt.Chart(df_01)

@@ -1,0 +1,79 @@
+annee;date;parcelle;exploitation;culture;situation;masse_C[kg/ha];masse_N[kg/ha];ratio_CN;nom_produit;type_residu;type_pool;Kres;Hres;CNbio;Yres
+2020;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;0.09997764463236995;0.006248602789523122;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2020;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;3.635710355195095;0.1454284142078038;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2020;281;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;43.35854747264371;3.6132122893869756;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;228.3184520627781;33.96814486278252;6.721546112838711;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2021;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;192.06278951313257;12.003924344570786;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;66.12559652643695;4.132849782902309;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;132;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;70.34145352782006;5.861787793985005;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;158;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;48.49596819364396;4.041330682803664;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;182;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;174.21416344956566;10.888385215597854;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;204;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;86.21809213697595;7.184841011414663;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;237;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;49.02979033631327;4.085815861359439;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;191.4772514042507;11.967328212765668;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2021;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1217.5481949801188;48.701927799204746;25.000000000000004;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2021;277;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;43.514562172092724;3.6262135143410603;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2022;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;254.852372193896;40.085961045289096;6.357646556258535;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2022;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;192.3167483960399;12.019796774752495;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2022;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;119.04228001730158;7.440142501081349;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2022;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;2352.2555699819127;119.403836039691;19.7;racine retournement;residus racinaires;labile;0.0;0.0;0.0;0.0
+2022;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1859.646923751343;162.143261036055;11.469159506652714;aerien retournement;residus aeriens;labile;0.0;0.0;0.0;0.0
+2022;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1437.8934042363032;57.51573616945213;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2022;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;incorpore;1167.0;16.05967040197377;72.66649755505401;racines post recolte;residus racinaires;labile;0.0;0.0;0.0;0.0
+2022;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;surface;4314.011255913541;59.367265535883796;72.666497555054;aerien post recolte;residus aeriens;labile;0.0;0.0;0.0;0.0
+2023;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;incorpore;1167.0;16.14895548888819;72.26473568541272;racines post recolte;residus racinaires;labile;0.0;0.0;0.0;0.0
+2023;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;surface;4324.111974385343;59.83709666094032;72.2647356854127;aerien post recolte;residus aeriens;labile;0.0;0.0;0.0;0.0
+2024;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;0.10018015457009648;0.00626125966063103;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2024;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;3.635710355195095;0.1454284142078038;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2024;269;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;44.03186568363504;3.66932214030292;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;442.1584683159582;67.17191718857772;6.582489927667946;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2025;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;228.52901472272205;14.283063420170128;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;106;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;62.31780392201077;5.193150326834231;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;91.97207607498294;5.7482547546864335;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;137;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;49.92636525565396;4.160530437971164;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;160;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;50.41353098968732;4.201127582473943;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;182;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;156.5194033800692;9.782462711254325;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;184;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;46.507436327430135;3.8756196939525114;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;204;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;45.235082335844766;3.7695901946537305;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;232;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;48.28372175715201;4.023643479762668;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;183.37620839097193;11.461013024435745;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2025;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1217.5481949801188;48.701927799204746;25.000000000000004;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2026;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1036.7831824175043;109.59406398876658;9.460212941129502;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2026;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;304.7394448515799;19.046215303223743;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;110;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;46.508164112776754;3.875680342731396;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;91.69792024770888;5.731120015481805;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;135;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;47.29444005927187;3.941203338272656;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;157;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;47.151507738083396;3.92929231150695;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;174;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;49.64627661768266;4.137189718140221;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;182;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;157.54364712493077;9.846477945308173;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;198;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;57.082610534451796;4.756884211204317;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;218;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;47.16078429065202;3.930065357554335;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;178.60230550994325;11.162644094371453;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2026;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;2251.1363064098477;90.0454522563939;25.000000000000004;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2026;251;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;51.21470089141158;4.267891740950965;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2027;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;695.0785337451574;80.43203118283269;8.64181251577685;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2027;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;248.24270092010715;15.515168807506697;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2027;111;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;45.312460473333566;3.7760383727777973;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2027;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;87.66984848857464;5.479365530535915;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2027;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;2565.0;130.2030456852792;19.7;racine retournement;residus racinaires;labile;0.0;0.0;0.0;0.0
+2027;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;642.8716470335603;73.49189414226967;8.747517730173804;aerien retournement;residus aeriens;labile;0.0;0.0;0.0;0.0
+2027;122;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1680.329920721936;67.21319682887744;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2027;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;incorpore;1167.0;16.393007984608097;71.18888742662314;racines post recolte;residus racinaires;labile;0.0;0.0;0.0;0.0
+2027;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;surface;4289.049849487409;60.24886754843981;71.18888742662313;aerien post recolte;residus aeriens;labile;0.0;0.0;0.0;0.0
+2028;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;incorpore;1167.0;17.01549003379486;68.58456604436277;racines post recolte;residus racinaires;labile;0.0;0.0;0.0;0.0
+2028;314;sudouest_prairie_41_1;mineral_sudouest_prairie;maisDP;surface;3728.5468967268903;54.36422670247912;68.58456604436279;aerien post recolte;residus aeriens;labile;0.0;0.0;0.0;0.0
+2029;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;0.08894738035617956;0.005559211272261223;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2029;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;3.235238766761052;0.12940955067044208;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2029;284;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;49.96224933078043;4.163520777565036;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;259.4652961833441;49.63203121472107;5.227779114274606;senescence hivernale;residus racinaires;labile;0.0;0.0;0.0;0.0
+2030;32;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;219.31255321630604;13.707034576019128;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;117;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;77.51146640818047;6.459288867348373;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;121;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;121.77213454249298;7.610758408905811;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;147;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;63.86212562516074;5.321843802096729;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;171;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;58.04972974478448;4.83747747873204;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;182;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;158.4300590950832;9.9018786934427;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;195;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;48.95004010508569;4.079170008757141;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;219;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;43.10507941131336;3.59208995094278;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;172.54192782787877;10.783870489242423;16.0;aerien senescent;residus aeriens;labile;0.0;0.0;0.0;0.0
+2030;244;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;1207.3830544608202;48.295322178432805;25.0;rhizodeposition;residus racinaires;labile;0.0;0.0;0.0;0.0
+2030;267;sudouest_prairie_41_1;mineral_sudouest_prairie;alfalfa;incorpore;54.26108423125951;4.521757019271626;12.0;feuilles perdues fauche;residus aeriens;labile;0.0;0.0;0.0;0.0
